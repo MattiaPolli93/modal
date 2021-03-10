@@ -10,7 +10,7 @@ html {
 }
 
 .wrapper {
-    font-family: sans-serif;  
+    font-family: 'Fascinate', cursive;
     color: #333;
     line-height: 1.5;
     height: 100vh;
@@ -54,7 +54,6 @@ p {
 }
 
 /* Classes to make Modal work */
-
 .hidden {
     display: none;
 }
