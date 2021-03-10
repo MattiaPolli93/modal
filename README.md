@@ -1,4 +1,4 @@
-# Modals
+# Modal
  
  "The Complete JavaScript Course" - A Udemy Course by Jonas Schmedtmann
  
